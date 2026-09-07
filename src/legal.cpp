@@ -35,7 +35,7 @@ SBLT_API_EXPORT const char *MODULE_LICENCE_DECLARATION =
 // to it is fine too.
 //
 // NULL indicates a development version
-SBLT_API_EXPORT const char *MODULE_SOURCE_CODE_LOCATION = 0;
+SBLT_API_EXPORT const char *MODULE_SOURCE_CODE_LOCATION = "https://github.com/diesel-modding/BeardLib-Editor-Plugin";
 
 // Normally a string to uniquely identify the source code this module was built from, such as
 // a Mercurial tag name or or Git commit hash.
